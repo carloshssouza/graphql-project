@@ -1,0 +1,11 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/carloshssouza/graphql-project.git",
+  "author": "Carlos Silva <carlos.silva@tech4h.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "tsconfig.json": "^1.0.11"
+  }
+}
