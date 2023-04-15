@@ -5,9 +5,17 @@
   "repository": "https://github.com/carloshssouza/graphql-project.git",
   "author": "Carlos Silva <carlos.silva@tech4h.com.br>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.ts"
+  },
   "dependencies": {
     "apollo-server": "^3.12.0",
     "graphql": "^16.6.0",
-    "tsconfig.json": "^1.0.11"
+    "ts-node": "^10.9.1",
+    "tsconfig.json": "^1.0.11",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
