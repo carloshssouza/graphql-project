@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/carloshssouza/graphql-project.git",
-  "author": "Carlos Silva <carlos.silva@tech4h.com.br>",
+  "author": "Carlos Souza <carlossouza_94@hotmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "nodemon src/index.ts"
